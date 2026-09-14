@@ -10,23 +10,9 @@
 
 <br>
 
-<pre>
-                              ·                              
-                            ┌─┴─┐                            
-                        ────┴───┴────                        
-                              │                              
-                       ┌──────┴──────┐                       
-       │               │      ○      │               │       
-     ──┼──             │             │             ──┼──     
-       │         ──────┴─────────────┴──────         │       
-       │            │                   │            │       
-  ─────┴────────────┴───────────────────┴────────────┴─────  
-  ·   .   ·   .   ·   .   ·   .   ·   .   ·   .   ·   .   ·  
-  ═════════════════════════════════════════════════════════  
-    ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~    
-      ─   ─   ─   ─   ─   ─   ─   ─   ─   ─   ─   ─   ─      
-                              ·                              
-</pre>
+<p align="center">
+  <img src="assets/installation.svg" width="100%" alt="rokuban-me architectural installation" />
+</p>
 
 <br>
 
@@ -55,7 +41,7 @@
 
 <br><br>
 
-<sub><code>track: flooded &nbsp;·&nbsp; destination: unannounced &nbsp;·&nbsp; echo: persistent</code></sub>
+<sub><code>track: flooded &nbsp;·&nbsp; destination: unannounced &nbsp;·&nbsp; memory: uncompressed &nbsp;·&nbsp; echo: persistent</code></sub>
 
 <br><br><br><br>
 
