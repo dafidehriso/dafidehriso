@@ -6,7 +6,13 @@
 
 <br><br>
 
-<h2><code>D &nbsp; A &nbsp; F &nbsp; I &nbsp; D &nbsp; E &nbsp; H &nbsp; R &nbsp; I &nbsp; S &nbsp; O</code></h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dafidehriso/dafidehriso/main/assets/ghibli_lineup.png" width="300" alt="Hayao Miyazaki Protagonists" />
+</p>
+
+<p align="center">
+  <sub><code>CHIHIRO &nbsp;·&nbsp; HAKU &nbsp;·&nbsp; SAN &nbsp;·&nbsp; HOWL &nbsp;·&nbsp; KIKI</code></sub>
+</p>
 
 <br>
 
