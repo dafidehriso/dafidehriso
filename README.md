@@ -8,16 +8,9 @@
   <sub><code>CHIHIRO &nbsp;·&nbsp; HAKU &nbsp;·&nbsp; SAN &nbsp;·&nbsp; HOWL &nbsp;·&nbsp; KIKI</code></sub>
 </p>
 
-<br>
-
-<br>
-
-<br><br><br>
 
 <blockquote>
 <pre>
-/* fragment : 0x06 · rokuban-me */
-
 "The rails run submerged beneath two inches of calm water.
  The train travels only in one direction.
 
