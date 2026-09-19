@@ -1,11 +1,5 @@
 <div align="center">
 
-<br><br><br>
-
-<sub><code>— &nbsp; R O K U B A N - M E &nbsp;·&nbsp; A R C H I V A L &nbsp; T R A N S I T &nbsp;·&nbsp; 0 . 0 0 &nbsp; H z &nbsp; —</code></sub>
-
-<br><br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/dafidehriso/dafidehriso/main/assets/ghibli_lineup.png" width="300" alt="Hayao Miyazaki Protagonists" />
 </p>
@@ -17,8 +11,6 @@
 <br>
 
 <br>
-
-<code>[ system state: silent transit &nbsp;·&nbsp; entropy accumulating &nbsp;·&nbsp; listening to submerged rails ]</code>
 
 <br><br><br>
 
