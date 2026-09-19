@@ -26,14 +26,11 @@
 </pre>
 </blockquote>
 
-<br><br>
 
 <sub><code>track: flooded &nbsp;·&nbsp; destination: unannounced &nbsp;·&nbsp; memory: uncompressed &nbsp;·&nbsp; echo: persistent</code></sub>
 
-<br><br><br><br>
 
 <a href="https://github.com/dafidehriso" title="origin"><code>[ ◊ ]</code></a>
 
-<br><br><br>
 
 </div>
